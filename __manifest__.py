@@ -2,7 +2,7 @@
 {
     'name': 'Servicio de Mantenimiento',
     'version': '1.0',
-    'author': 'Paco Navas',
+    'author': 'José David',
     'category': 'Custom',
     'summary': 'Gestión de Mantenimiento de Productos',
     'depends': ['base', 'garantia.producto'],
