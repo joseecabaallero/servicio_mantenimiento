@@ -5,7 +5,7 @@
     'author': 'José David',
     'category': 'Custom',
     'summary': 'Gestión de Mantenimiento de Productos',
-    'depends': ['base', 'garantia.producto'],
+    'depends': ['base', 'garantias'],
     'data': [
         'views/servicio_mantenimiento_views.xml',
         'security/ir.model.access.csv',
